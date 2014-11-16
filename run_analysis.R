@@ -61,7 +61,7 @@ selectieFinalDF<-melt_(selectieTempDF,id=c("subject","activityFinal"))
 # STEP 5 of ASSIGNMENT - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 AverageDF<-dcast(selectieFinalDF,subject+activityFinal ~variable, fun.aggregate=mean, na.rm=TRUE)
-write.table(AverageDF,"AverageDF.txt")
+write.table(AverageDF,"AverageDF.txt", row.name=FALSE)
 
 # 3th part of ASSIGNMENT, codebook: 
 print(str(AverageDF))
