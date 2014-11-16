@@ -1,6 +1,6 @@
 summary(AverageDF)
 
-    subject               activityFinal angletbodyaccjerkmean.gravitymean angletbodyaccmean.gravity angletbodygyrojerkmean.gravitymean
+subject   activityFinal angletbodyaccjerkmean.gravitymean angletbodyaccmean.gravity angletbodygyrojerkmean.gravitymean
  Min.   : 1.0   laying           :30    Min.   :-0.1205540                Min.   :-0.163043         Min.   :-0.22367                  
  1st Qu.: 8.0   sitting          :30    1st Qu.:-0.0211694                1st Qu.:-0.011012         1st Qu.:-0.05613                  
  Median :15.5   standing         :30    Median : 0.0031358                Median : 0.007878         Median :-0.01602                  
