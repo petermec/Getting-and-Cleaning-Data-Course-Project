@@ -1,18 +1,6 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-
 <html>
 <head>
-	
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title></title>
-	<meta name="generator" content="LibreOffice 4.2.6.3 (Linux)">
-	<meta name="created" content="0;0">
-	<meta name="changed" content="0;0">
-	
-	<style type="text/css"><!-- 
-		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Liberation Sans"; font-size:x-small }
-		 -->
-	</style>
+
 	
 </head>
 
